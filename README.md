@@ -43,4 +43,7 @@ Progression Tracking on **Notion**: https://notion-url-shortener.vercel.app/sql-
 ![Data Integration](materials/Data%20OBJECT.png)
 #### Gold Layer's Data Model: Star Scheme
 ![Data Integration](materials/Star%20Cheme.png)
-
+---
+## Stage 3
+### Assignments
+ [x] Create reports on customers and products
