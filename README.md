@@ -16,3 +16,7 @@ Divided into 3 stages:
 **Tools used**: SSMS 22, SQL Server, Draw.io  
 Progression Tracking on **Notion**: https://notion-url-shortener.vercel.app/sql-data-warehouse-project
 
+---
+## Stage 1
+###  The Medallion Architecture:
+
