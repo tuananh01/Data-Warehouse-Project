@@ -1,3 +1,3 @@
 # Data Warehouse project
-
-Project Progression Tracking: https://www.notion.so/SQL-Data-Warehouse-Project-3573d3b8fdb380efb626eb1cd5ca7a56?source=copy_link
+Data W
+Progression Tracking on Notion: https://notion-url-shortener.vercel.app/sql-data-warehouse-project
