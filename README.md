@@ -19,4 +19,7 @@ Progression Tracking on **Notion**: https://notion-url-shortener.vercel.app/sql-
 ---
 ## Stage 1
 ###  The Medallion Architecture:
+![Data Architecture](materials/Data%20Architecture.png)
 
+### Data Flow
+![Data Architecture](materials/Data%20Flow%20Diagram.png)
