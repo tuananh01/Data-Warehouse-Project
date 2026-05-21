@@ -46,4 +46,4 @@ Progression Tracking on **Notion**: https://notion-url-shortener.vercel.app/sql-
 ---
 ## Stage 3
 ### Assignments
- [x] Create reports on customers and products
+ - [x] Create reports on customers and products
